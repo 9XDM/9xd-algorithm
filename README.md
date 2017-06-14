@@ -9,7 +9,7 @@
 - [@mingrammer](https://github.com/mingrammer)(ming, 권민재) https://github.com/mingrammer/acm-icpc
 
 
-## [Project Euler](http://euler.synap.co.kr/)
+## [Project Euler](https://projecteuler.net/)([KR](http://euler.synap.co.kr/))
 - [@mingrammer](https://github.com/mingrammer)(ming, 권민재) https://github.com/mingrammer/project-euler
 - [@malkoG](https://github.com/malkoG)(KODING WARRIOR, 이재열) https://github.com/malkoG/project-euler-lisp
 - [@kyunooh](https://github.com/kyunooh)(젤리, 최현묵) https://github.com/kyunooh/project-euler 
