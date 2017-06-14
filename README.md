@@ -5,6 +5,7 @@
 
 
 ## BOJ
+- [@gnujoow](https://github.com/gnujoow)(gnujoow, 김우정) https://github.com/gnujoow/acmicpc
 - [@mingrammer](https://github.com/mingrammer)(ming, 권민재) https://github.com/mingrammer/acm-icpc
 
 
