@@ -8,6 +8,7 @@
 - [@gnujoow](https://github.com/gnujoow)(gnujoow, 김우정) https://github.com/gnujoow/acmicpc
 - [@mingrammer](https://github.com/mingrammer)(ming, 권민재) https://github.com/mingrammer/acm-icpc
 - [@jwvg0425](https://github.com/jwvg0425)(jwvg0425, 남현욱) https://github.com/jwvg0425/boj
+- [@sthkindacrazy](https://github.com/sthkindacrazy)(sthkindacrazy, 신주형) https://github.com/sthkindacrazy/acmicpc
 - [@keyakoto](https://github.com/keyakoto)(keyakoto, 윤성권) https://github.com/keyakoto/boj
 
 
