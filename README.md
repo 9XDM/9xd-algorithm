@@ -6,6 +6,7 @@
 
 ## BOJ
 - [@mingrammer](https://github.com/mingrammer)(ming, 권민재) https://github.com/mingrammer/acm-icpc
+- [@maxtortime](https://github.com/maxtortime/algorithm)(maxtortime, 김태환) https://github.com/maxtortime/algorithm
 
 
 ## Project Euler 
