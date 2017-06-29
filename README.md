@@ -6,11 +6,11 @@
 
 ## [BOJ](https://www.acmicpc.net/)
 - [@gnujoow](https://github.com/gnujoow)(gnujoow, 김우정) https://github.com/gnujoow/acmicpc
+- [@maxtortime](https://github.com/maxtortime/algorithm)(maxtortime, 김태환) https://github.com/maxtortime/algorithm
 - [@mingrammer](https://github.com/mingrammer)(ming, 권민재) https://github.com/mingrammer/acm-icpc
 - [@jwvg0425](https://github.com/jwvg0425)(jwvg0425, 남현욱) https://github.com/jwvg0425/boj
 - [@sthkindacrazy](https://github.com/sthkindacrazy)(sthkindacrazy, 신주형) https://github.com/sthkindacrazy/acmicpc
 - [@keyakoto](https://github.com/keyakoto)(keyakoto, 윤성권) https://github.com/keyakoto/boj
-
 
 ## [Project Euler](https://projecteuler.net/)([KR](http://euler.synap.co.kr/))
 - [@mingrammer](https://github.com/mingrammer)(ming, 권민재) https://github.com/mingrammer/project-euler
